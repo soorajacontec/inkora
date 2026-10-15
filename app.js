@@ -5,7 +5,7 @@
 (() => {
   'use strict';
 
-  const VERSION = '1.5.0';
+  const VERSION = '1.6.0';
 
   /* ======================= 1. Helpers ======================= */
   const $ = (s, r = document) => r.querySelector(s);
@@ -245,8 +245,14 @@
     }
 
     /* Resolves to {d} (a photo), {none:true} (no free photo), or {err:true} (network blocked or offline). */
+    /* Bundled photos: photos/credits.json is written by tools/fetch-photos.mjs (optional). */
+    let local = null;
+    const loadLocal = () => local || (local = fetch('photos/credits.json').then((r) => (r.ok ? r.json() : {})).catch(() => ({})));
     function get(kind, rec) {
       const key = kind + ':' + rec.id, hit = cache[key];
+      return loadLocal().then((L) => (L[key] ? { d: L[key] } : getLive(kind, rec, key, hit)));
+    }
+    function getLive(kind, rec, key, hit) {
       if (hit && Date.now() - hit.t < (hit.d ? TTL : TTL_NONE)) return Promise.resolve(hit.d ? { d: hit.d } : { none: true });
       if (pending.has(key)) return pending.get(key);
       const p = limit(() => find(kind, rec)).then((d) => { cache[key] = { t: Date.now(), d }; persist(); return d ? { d } : { none: true }; }, () => ({ err: true })).finally(() => pending.delete(key));
@@ -281,7 +287,7 @@
         <div><dt>Credit URL</dt><dd><a href="${esc(d.descUrl)}" target="_blank" rel="noopener noreferrer">${esc(d.descUrl)}</a></dd></div>
         <div><dt>Article</dt><dd><a href="${esc(d.articleUrl)}" target="_blank" rel="noopener noreferrer">Wikipedia: ${esc(d.article)} ↗</a></dd></div>
       </dl>
-      <p class="muted small">Loaded from Wikimedia at view time. Always check the licence page before reusing a photo.</p>`;
+      <p class="muted small">Photo from Wikipedia / Wikimedia Commons. Always check the licence page before reusing a photo.</p>`;
   }
   const photoBox = (kind, id) => `<figure class="photo" data-photo="${kind}:${esc(id)}"><div class="photo-ph">Looking for a photo…</div></figure>`;
   async function hydratePhoto(box) {

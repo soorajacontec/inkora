@@ -1,6 +1,6 @@
 /* Inkora service worker: offline app shell, data and fonts.
    Bump VERSION whenever any shipped file (including data/) changes. */
-const VERSION = 'inkora-v9';
+const VERSION = 'inkora-v10';
 const SHELL = [
   './', 'index.html', 'styles.css', 'app.js', 'anim.js', 'write.js', 'bgm.js', 'manifest.webmanifest',
   'data/brands.json', 'data/models.json', 'data/fillers.json', 'data/timeline.json', 'data/methods.json', 'data/glossary.json',

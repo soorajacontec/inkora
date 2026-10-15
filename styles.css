@@ -675,3 +675,45 @@ h1, h2, h3, .ci-name, .dt-title { overflow-wrap: break-word; hyphens: manual; }
 :root[data-contrast="high"] :focus-visible { outline-width: 3.5px; outline-offset: 3px; }
 :root[data-contrast="high"] .card-item, :root[data-contrast="high"] .tile, :root[data-contrast="high"] .facts { border-width: 2px; }
 :root[data-contrast="high"] .tag, :root[data-contrast="high"] .chip { border-color: var(--fg); }
+
+/* 25. Bolder Egypt (v1.6): papyrus weave, cartouche titles, hieroglyph band, scarab loader */
+body::before {
+  content: ""; position: fixed; inset: 0; z-index: -1; pointer-events: none; opacity: .5;
+  background:
+    repeating-linear-gradient(0deg, transparent 0 5px, color-mix(in oklab, var(--accent) 7%, transparent) 5px 6px),
+    repeating-linear-gradient(90deg, transparent 0 9px, color-mix(in oklab, var(--accent) 5%, transparent) 9px 10px);
+}
+/* page titles sit in a cartouche: a rounded oval frame with a reed tie at the end */
+.page-head h1 {
+  display: inline-block; justify-self: start; padding: 4px 26px 4px 20px; position: relative;
+  border: 2px solid var(--line-2); border-radius: 999px; box-shadow: 0 0 0 4px var(--bg, transparent), 0 0 0 5px var(--line);
+}
+.page-head h1::after {
+  content: ""; position: absolute; right: -14px; top: 50%; width: 3px; height: 62%; transform: translateY(-50%);
+  background: var(--accent); border-radius: 2px; box-shadow: 0 0 0 4px var(--bg, transparent);
+}
+.page-head { margin-bottom: 22px; }
+.page-head h1 { max-width: calc(100% - 20px); font-size: clamp(22px, 4.6vw, 34px); }
+/* a band of hieroglyph-style marks above the footer area and along the hero base */
+.hero-art::after, .frieze::before {
+  content: ""; display: block; height: 12px; margin-top: 10px; opacity: .65;
+  background: repeating-linear-gradient(90deg, var(--accent) 0 10px, transparent 10px 14px, var(--turq, var(--accent)) 14px 18px, transparent 18px 28px);
+  -webkit-mask: repeating-linear-gradient(90deg, #000 0 10px, transparent 10px 14px);
+}
+.hero-art { position: relative; overflow: hidden; }
+.hero-art::after { position: absolute; left: 0; right: 0; bottom: 0; margin: 0; }
+.frieze::before { display: none; }
+/* scarab loader: a disc with two wings that flap */
+.loading { position: relative; padding-top: 74px; }
+.loading::before {
+  content: ""; position: absolute; left: 50%; top: 14px; width: 56px; height: 34px; margin-left: -28px;
+  background:
+    radial-gradient(circle at 50% 55%, var(--accent) 0 9px, transparent 10px),
+    radial-gradient(ellipse 22px 9px at 12% 40%, var(--turq, var(--accent)) 0 98%, transparent 100%),
+    radial-gradient(ellipse 22px 9px at 88% 40%, var(--turq, var(--accent)) 0 98%, transparent 100%);
+  animation: wingflap 1.1s ease-in-out infinite alternate;
+}
+@keyframes wingflap { from { transform: scaleX(.78); opacity: .7; } to { transform: scaleX(1); opacity: 1; } }
+/* the photo's i button gets a gold ring like a seal */
+.photo-i { border: 1.5px solid var(--accent); box-shadow: 0 0 0 3px color-mix(in oklab, var(--accent) 25%, transparent); }
+@media (prefers-reduced-motion: reduce) { .loading::before { animation: none; } }

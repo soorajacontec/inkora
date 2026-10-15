@@ -82,6 +82,10 @@ All of these render into `#viewDetail` and are routed by hash:
 
 Other additions: a brand timeline strip (`brandStrip`), `penArt(kind)` (SVG pen drawings for each filling system, used when no photo exists), copy-link buttons (`data-copy`), and reading options (`data-text="large"`, `data-contrast="high"`, saved as `il-text` and `il-contrast`).
 
+## Bundled photos
+
+`tools/fetch-photos.mjs` (Node 18+, no packages) runs the same Wikipedia search as the app and saves each free-licence photo as `photos/<kind>-<id>.jpg`, plus `photos/credits.json` keyed `brand:<id>` / `model:<id>`. `IMG.get` reads that file first and falls back to the live lookup. The script is safe to re-run; it skips photos it already has.
+
 ## Photos and credits
 
 `IMG` in `app.js` finds a photo at view time with the Wikipedia API (CORS `origin=*`):
@@ -123,7 +127,7 @@ Three stacked canvases: surface, dry ink and wet ink. The wet layer is redrawn e
 
 ## Service worker
 
-`inkora-v9`. Pre-caches the shell and data. Navigation is network-first with cache fallback. Fonts are stale-while-revalidate. Own files are cache-first. Audio and range requests are not cached. **Bump `VERSION` whenever any shipped file changes.**
+`inkora-v10`. Pre-caches the shell and data. Navigation is network-first with cache fallback. Fonts are stale-while-revalidate. Own files are cache-first. Audio and range requests are not cached. **Bump `VERSION` whenever any shipped file changes.**
 
 ## Accessibility
 

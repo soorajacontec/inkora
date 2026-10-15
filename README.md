@@ -12,6 +12,16 @@ A friendly, installable web app about **fountain pens**: makers from around the 
 
 ![Piston filler animation, light theme](docs/screenshots/egypt-light-piston.png)
 
+## Bundled photos (optional)
+
+Photos load live from Wikipedia and Wikimedia Commons. To save them inside the app so they work offline and on any host, run this once on a computer with internet (Node 18 or newer):
+
+```bash
+node tools/fetch-photos.mjs
+```
+
+It downloads a free-licence photo for each brand and model into `photos/`, writes the author, licence and credit URL to `photos/credits.json`, and the **i** button on each photo shows them. Then bump `VERSION` in `sw.js` and commit the `photos/` folder.
+
 ## Features
 
 - **Brands:** 38 makers across 9 countries, active and closed, including 9 Indian makers (Camlin, Chelpark, Ratnam Pen Works, Luxmy Stylo, Deccan, Hilal/Sultan, Gem/Gama, Rightaids, Wality). Filter by country and status, and sort by name or age.

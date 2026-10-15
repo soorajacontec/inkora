@@ -4,7 +4,7 @@ Short rules for coding agents working in this repository. When they exist, read 
 
 *Created by **SSK-BLUM**.* Keep this credit in the About window, the README and the LICENSE.
 
-> **Status: v1.5 built.** See [PROJECT.md](PROJECT.md) for the working app. Keep this file in line with the real repository.
+> **Status: v1.6 built.** See [PROJECT.md](PROJECT.md) for the working app. Keep this file in line with the real repository.
 
 ## What this is
 
@@ -68,7 +68,7 @@ Views, routed by hash: `#home`, `#brands`, `#brand=<id>`, `#models`, `#model=<id
 ## Hard rules
 
 1. **Accuracy first.** Every brand, model, date and inventor needs a `sources` entry from a reliable reference (a maker's history page, a museum, a reputable pen-history site, Wikipedia as a last resort). **Never invent models or dates.** Mark approximate years with `circa: true`, and mark anything unconfirmed with `verify: true`. The UI shows a "needs checking" tag on unconfirmed records.
-2. **No logos and no copied artwork.** Brand names appear as text only. Pens, nibs and mechanisms are **drawn in code** (SVG or canvas) as generic illustrations. Real photos are allowed only from Wikipedia and Wikimedia Commons, loaded at runtime (never copied into the repo), free licences only, with the author, licence and credit URL in the **Image credit** drop-down under the photo. The lookup lives in the `IMG` helper in `app.js`.
+2. **No logos and no copied artwork.** Brand names appear as text only. Pens, nibs and mechanisms are **drawn in code** (SVG or canvas) as generic illustrations. Real photos are allowed only from Wikipedia and Wikimedia Commons, free licences only. They are loaded live, or bundled in `photos/` by `node tools/fetch-photos.mjs` (which also writes `photos/credits.json`; the app uses that file first), with the author, licence and credit URL in the **Image credit** drop-down under the photo. The lookup lives in the `IMG` helper in `app.js`.
 3. **Write summaries in your own words.** Never paste text from sources.
 4. **No build step, frameworks or npm dependencies.** Data is plain JSON fetched at runtime and cached by the service worker.
 5. **All storage goes through `store.get/set/del`** (try/catch, JSON values). Keys use the `il-` prefix (`il-theme`, `il-skin`, `il-layout`, `il-saved`, `il-write-settings`, `il-seen-help`, `il-img`, `il-bgm`, `il-text`, `il-contrast`).
@@ -147,3 +147,4 @@ Also check that every `brandId`, `filler`, `examples` and `notable` value points
 - Indian-brand facts come from the ORF article "A Fountain Pen Story", the Chelpark Wikipedia page and Inked Happiness. Where only an era is known, the record carries `verify: true`, and `closedNote` holds wording such as "closed after 1991".
 - Name: the app is **Inkora** (renamed from Ink Leaf). The `il-` localStorage prefix is kept on purpose so earlier saved settings still work. The cache name is `inkora-vN`, and the service worker also deletes old `ink-leaf-*` caches.
 - Version 1.5 added the glossary, compare, quiz, nib guide, India story, brand strip, pen drawings, copy links, reading options and the second music track. The quiz profiles use model ids, so if you rename a model id, update `PROFILES` in `app.js`.
+- v1.6: bolder Egyptian styling (section 25 of `styles.css`: papyrus weave, cartouche page titles, scarab loader) and optional bundled photos. `IMG.get` checks `photos/credits.json` first, then falls back to the live Wikipedia lookup. After running the fetch tool, bump `VERSION` in `sw.js` and commit `photos/`.
