@@ -1,0 +1,661 @@
+[
+ {
+  "id": "waterman-ideal",
+  "brandId": "waterman",
+  "name": "Ideal",
+  "years": [
+   1884,
+   null
+  ],
+  "filler": "eyedropper",
+  "summary": "The pen that made Lewis Waterman's name. His three-channel feed gave a steady flow of ink, and the first Ideals were filled with an eyedropper.",
+  "sources": [
+   {
+    "t": "Wikipedia: Waterman Pens",
+    "u": "https://en.wikipedia.org/w/index.php?search=Waterman+Pens"
+   }
+  ],
+  "vintage": true
+ },
+ {
+  "id": "waterman-cf",
+  "brandId": "waterman",
+  "name": "C/F",
+  "years": [
+   1953,
+   null
+  ],
+  "filler": "cartridge",
+  "summary": "Among the first pens designed around a disposable plastic ink cartridge, which made refilling clean and simple.",
+  "sources": [
+   {
+    "t": "Wikipedia: Waterman Pens",
+    "u": "https://en.wikipedia.org/w/index.php?search=Waterman+Pens"
+   }
+  ],
+  "circa": true,
+  "vintage": true
+ },
+ {
+  "id": "parker-duofold",
+  "brandId": "parker",
+  "name": "Duofold",
+  "years": [
+   1921,
+   null
+  ],
+  "filler": "button",
+  "summary": "Introduced in 1921 with a bright red barrel nicknamed Big Red. It made colour and size part of a pen's appeal.",
+  "sources": [
+   {
+    "t": "Wikipedia: Parker Duofold",
+    "u": "https://en.wikipedia.org/w/index.php?search=Parker+Duofold"
+   }
+  ],
+  "nib": "Gold nib; early models carried a long nib guarantee",
+  "vintage": true
+ },
+ {
+  "id": "parker-vacumatic",
+  "brandId": "parker",
+  "name": "Vacumatic",
+  "years": [
+   1932,
+   1948
+  ],
+  "filler": "vacuum",
+  "summary": "A pen with a layered, striped barrel that let you see the ink level, with a vacuum diaphragm filler inside.",
+  "sources": [
+   {
+    "t": "Wikipedia: Parker Vacumatic",
+    "u": "https://en.wikipedia.org/w/index.php?search=Parker+Vacumatic"
+   }
+  ],
+  "vintage": true
+ },
+ {
+  "id": "parker-51",
+  "brandId": "parker",
+  "name": "51",
+  "years": [
+   1941,
+   1978
+  ],
+  "filler": "aerometric",
+  "summary": "Hooded nib, streamlined shape and fast-drying ink made this one of the best-selling pens of its day. The Aerometric filler arrived in 1948.",
+  "sources": [
+   {
+    "t": "Wikipedia: Parker 51",
+    "u": "https://en.wikipedia.org/w/index.php?search=Parker+51"
+   }
+  ],
+  "nib": "Hooded nib",
+  "vintage": true
+ },
+ {
+  "id": "parker-61",
+  "brandId": "parker",
+  "name": "61",
+  "years": [
+   1956,
+   1967
+  ],
+  "filler": "capillary",
+  "summary": "Known for its capillary filler, which draws ink in when the nib is dipped, with no squeezing needed.",
+  "sources": [
+   {
+    "t": "Wikipedia: Parker 61",
+    "u": "https://en.wikipedia.org/w/index.php?search=Parker+61"
+   }
+  ],
+  "circa": true,
+  "verify": true,
+  "vintage": true
+ },
+ {
+  "id": "parker-75",
+  "brandId": "parker",
+  "name": "75",
+  "years": [
+   1964,
+   null
+  ],
+  "filler": "cartridge",
+  "summary": "A sleek sterling-silver-style design launched in the 1960s and named for the company's 75th anniversary.",
+  "sources": [
+   {
+    "t": "Wikipedia: Parker 75",
+    "u": "https://en.wikipedia.org/w/index.php?search=Parker+75"
+   }
+  ],
+  "circa": true,
+  "verify": true,
+  "vintage": true
+ },
+ {
+  "id": "sheaffer-balance",
+  "brandId": "sheaffer",
+  "name": "Balance",
+  "years": [
+   1929,
+   1940
+  ],
+  "filler": "lever",
+  "summary": "Named for its tapered, balanced shape, this lever-filler helped define the look of 1930s American pens.",
+  "sources": [
+   {
+    "t": "Wikipedia: Sheaffer",
+    "u": "https://en.wikipedia.org/w/index.php?search=Sheaffer"
+   }
+  ],
+  "circa": true,
+  "verify": true,
+  "vintage": true
+ },
+ {
+  "id": "sheaffer-snorkel",
+  "brandId": "sheaffer",
+  "name": "Snorkel",
+  "years": [
+   1952,
+   1959
+  ],
+  "filler": "snorkel",
+  "summary": "The pen with a tiny retractable tube. Slide it out, dip it in ink and the nib never gets wet.",
+  "sources": [
+   {
+    "t": "Wikipedia: Sheaffer",
+    "u": "https://en.wikipedia.org/w/index.php?search=Sheaffer"
+   }
+  ],
+  "circa": true,
+  "vintage": true
+ },
+ {
+  "id": "montblanc-149",
+  "brandId": "montblanc",
+  "name": "Meisterstück 149",
+  "years": [
+   1952,
+   null
+  ],
+  "filler": "piston",
+  "summary": "The largest of the Meisterstück pens and the most recognisable luxury fountain pen in the world.",
+  "sources": [
+   {
+    "t": "Wikipedia: Montblanc Meisterstück",
+    "u": "https://en.wikipedia.org/w/index.php?search=Montblanc+Meisterst%C3%BCck"
+   }
+  ],
+  "nib": "18-carat gold nib engraved 4810 (the height of Mont Blanc in metres)",
+  "vintage": true
+ },
+ {
+  "id": "montblanc-146",
+  "brandId": "montblanc",
+  "name": "Meisterstück 146",
+  "years": [
+   1952,
+   null
+  ],
+  "filler": "piston",
+  "summary": "A slightly smaller sibling of the 149 with the same black resin and gold look.",
+  "sources": [
+   {
+    "t": "Wikipedia: Montblanc Meisterstück",
+    "u": "https://en.wikipedia.org/w/index.php?search=Montblanc+Meisterst%C3%BCck"
+   }
+  ],
+  "nib": "Gold nib",
+  "vintage": true
+ },
+ {
+  "id": "pelikan-100",
+  "brandId": "pelikan",
+  "name": "100",
+  "years": [
+   1929,
+   1931
+  ],
+  "filler": "piston",
+  "summary": "The first Pelikan fountain pen and one of the first widely sold piston fillers, built on a patent by Theodor Kovács.",
+  "sources": [
+   {
+    "t": "Wikipedia: Pelikan AG",
+    "u": "https://en.wikipedia.org/w/index.php?search=Pelikan+AG"
+   }
+  ],
+  "circa": true,
+  "vintage": true
+ },
+ {
+  "id": "pelikan-400",
+  "brandId": "pelikan",
+  "name": "400",
+  "years": [
+   1950,
+   1965
+  ],
+  "filler": "piston",
+  "summary": "Admired for its green-striped celluloid barrel and a slim, soft gold nib.",
+  "sources": [
+   {
+    "t": "Wikipedia: Pelikan AG",
+    "u": "https://en.wikipedia.org/w/index.php?search=Pelikan+AG"
+   }
+  ],
+  "circa": true,
+  "nib": "Gold nib",
+  "verify": true,
+  "vintage": true
+ },
+ {
+  "id": "pelikan-m800",
+  "brandId": "pelikan",
+  "name": "Souverän M800",
+  "years": [
+   1987,
+   null
+  ],
+  "filler": "piston",
+  "summary": "Pelikan's large flagship with the classic striped barrel and a big piston reservoir.",
+  "sources": [
+   {
+    "t": "Wikipedia: Pelikan AG",
+    "u": "https://en.wikipedia.org/w/index.php?search=Pelikan+AG"
+   }
+  ],
+  "circa": true,
+  "nib": "18-carat two-tone nib",
+  "verify": true,
+  "vintage": false
+ },
+ {
+  "id": "lamy-2000",
+  "brandId": "lamy",
+  "name": "2000",
+  "years": [
+   1966,
+   null
+  ],
+  "filler": "piston",
+  "summary": "Designed by Gerd A. Müller in Bauhaus style: a brushed steel and polycarbonate body with a hooded nib. It has barely changed since 1966.",
+  "sources": [
+   {
+    "t": "Wikipedia: Lamy 2000",
+    "u": "https://en.wikipedia.org/w/index.php?search=Lamy+2000"
+   }
+  ],
+  "nib": "Hooded gold nib",
+  "vintage": true
+ },
+ {
+  "id": "lamy-safari",
+  "brandId": "lamy",
+  "name": "Safari",
+  "years": [
+   1980,
+   null
+  ],
+  "filler": "cartridge",
+  "summary": "The bright plastic student pen with a triangular grip, designed by Wolfgang Fabian. It is among the most popular first fountain pens.",
+  "sources": [
+   {
+    "t": "Wikipedia: Lamy Safari",
+    "u": "https://en.wikipedia.org/w/index.php?search=Lamy+Safari"
+   }
+  ],
+  "vintage": false
+ },
+ {
+  "id": "pilot-capless",
+  "brandId": "pilot",
+  "name": "Capless (Vanishing Point)",
+  "years": [
+   1963,
+   null
+  ],
+  "filler": "cartridge",
+  "summary": "Instead of a cap, the nib retracts into the body with a click and a small door closes over it.",
+  "sources": [
+   {
+    "t": "Wikipedia: Pilot Vanishing Point",
+    "u": "https://en.wikipedia.org/w/index.php?search=Pilot+Vanishing+Point"
+   }
+  ],
+  "circa": true,
+  "verify": true,
+  "vintage": true
+ },
+ {
+  "id": "pilot-custom-823",
+  "brandId": "pilot",
+  "name": "Custom 823",
+  "years": [
+   null,
+   null
+  ],
+  "filler": "plunger",
+  "summary": "A large Pilot with a big-capacity plunger filler and a smooth gold nib.",
+  "sources": [
+   {
+    "t": "Wikipedia: Pilot Custom",
+    "u": "https://en.wikipedia.org/w/index.php?search=Pilot+Custom"
+   }
+  ],
+  "nib": "Gold nib",
+  "verify": true,
+  "vintage": false
+ },
+ {
+  "id": "sailor-pro-gear",
+  "brandId": "sailor",
+  "name": "Professional Gear",
+  "years": [
+   null,
+   null
+  ],
+  "filler": "cartridge",
+  "summary": "Sailor's flat-topped, gold-nib flagship family, known for its smooth, springy writing feel.",
+  "sources": [
+   {
+    "t": "Wikipedia: Sailor Pen Company",
+    "u": "https://en.wikipedia.org/w/index.php?search=Sailor+Pen+Company"
+   }
+  ],
+  "nib": "Gold nib",
+  "verify": true,
+  "vintage": false
+ },
+ {
+  "id": "platinum-3776",
+  "brandId": "platinum",
+  "name": "#3776 Century",
+  "years": [
+   null,
+   null
+  ],
+  "filler": "cartridge",
+  "summary": "Named after the height of Mount Fuji in metres (3,776). Its Slip & Seal cap keeps ink from drying.",
+  "sources": [
+   {
+    "t": "Wikipedia: Platinum Pen Company",
+    "u": "https://en.wikipedia.org/w/index.php?search=Platinum+Pen+Company"
+   }
+  ],
+  "nib": "Gold nib",
+  "verify": true,
+  "vintage": false
+ },
+ {
+  "id": "aurora-88",
+  "brandId": "aurora",
+  "name": "88",
+  "years": [
+   1947,
+   null
+  ],
+  "filler": "piston",
+  "summary": "Marcello Nizzoli's mid-century design for Aurora, with a smooth, cigar-shaped body.",
+  "sources": [
+   {
+    "t": "Wikipedia: Aurora (pen company)",
+    "u": "https://en.wikipedia.org/w/index.php?search=Aurora+%28pen+company%29"
+   }
+  ],
+  "vintage": true
+ },
+ {
+  "id": "visconti-homo-sapiens",
+  "brandId": "visconti",
+  "name": "Homo Sapiens",
+  "years": [
+   null,
+   null
+  ],
+  "filler": "piston",
+  "summary": "Made with a resin blended with basalt lava from Mount Etna, with Visconti's own filling system.",
+  "sources": [
+   {
+    "t": "Wikipedia: Visconti (pen company)",
+    "u": "https://en.wikipedia.org/w/index.php?search=Visconti+%28pen+company%29"
+   }
+  ],
+  "verify": true,
+  "vintage": false
+ },
+ {
+  "id": "esterbrook-j",
+  "brandId": "esterbrook",
+  "name": "J",
+  "years": [
+   1933,
+   1948
+  ],
+  "filler": "lever",
+  "summary": "A cheap, sturdy lever-filler with screw-in nib units. Users could swap in a different nib in seconds.",
+  "sources": [
+   {
+    "t": "Wikipedia: Esterbrook",
+    "u": "https://en.wikipedia.org/w/index.php?search=Esterbrook"
+   }
+  ],
+  "circa": true,
+  "nib": "Swappable steel nib unit",
+  "verify": true,
+  "vintage": true
+ },
+ {
+  "id": "conklin-crescent",
+  "brandId": "conklin",
+  "name": "Crescent Filler",
+  "years": [
+   1901,
+   1930
+  ],
+  "filler": "crescent",
+  "summary": "The pen with a crescent ring on the barrel. Press it to squeeze the sac inside, then release it in the ink.",
+  "sources": [
+   {
+    "t": "Wikipedia: Conklin Pen Company",
+    "u": "https://en.wikipedia.org/w/index.php?search=Conklin+Pen+Company"
+   }
+  ],
+  "circa": true,
+  "verify": true,
+  "vintage": true
+ },
+ {
+  "id": "onoto-plunger",
+  "brandId": "onoto",
+  "name": "Plunger Filler",
+  "years": [
+   1905,
+   1958
+  ],
+  "filler": "plunger",
+  "summary": "The British pen that popularised the plunger: a syringe-like rod that fills the whole barrel with ink.",
+  "sources": [
+   {
+    "t": "Wikipedia: Onoto",
+    "u": "https://en.wikipedia.org/w/index.php?search=Onoto"
+   }
+  ],
+  "circa": true,
+  "verify": true,
+  "vintage": true
+ },
+ {
+  "id": "eversharp-skyline",
+  "brandId": "wahl-eversharp",
+  "name": "Skyline",
+  "years": [
+   1941,
+   1948
+  ],
+  "filler": "lever",
+  "summary": "A streamlined 1940s pen designed by Henry Dreyfuss, with a clean, sweeping shape.",
+  "sources": [
+   {
+    "t": "Wikipedia: Eversharp",
+    "u": "https://en.wikipedia.org/w/index.php?search=Eversharp"
+   }
+  ],
+  "circa": true,
+  "verify": true,
+  "vintage": true
+ },
+ {
+  "id": "kaweco-sport",
+  "brandId": "kaweco",
+  "name": "Sport",
+  "years": [
+   null,
+   null
+  ],
+  "filler": "cartridge",
+  "summary": "A pen small enough for a pocket when capped; the cap posts on the back for a comfortable full-size length.",
+  "sources": [
+   {
+    "t": "Wikipedia: Kaweco",
+    "u": "https://en.wikipedia.org/w/index.php?search=Kaweco"
+   }
+  ],
+  "verify": true,
+  "vintage": false
+ },
+ {
+  "id": "twsbi-eco",
+  "brandId": "twsbi",
+  "name": "ECO",
+  "years": [
+   2015,
+   null
+  ],
+  "filler": "piston",
+  "summary": "An affordable clear-bodied piston filler that opened piston pens to a new crowd of beginners.",
+  "sources": [
+   {
+    "t": "Wikipedia: TWSBI",
+    "u": "https://en.wikipedia.org/w/index.php?search=TWSBI"
+   }
+  ],
+  "vintage": false
+ },
+ {
+  "id": "conway-stewart-58",
+  "brandId": "conway-stewart",
+  "name": "58",
+  "years": [
+   null,
+   null
+  ],
+  "filler": "lever",
+  "summary": "A colourful marbled-celluloid lever-filler of the mid-20th century.",
+  "sources": [
+   {
+    "t": "Wikipedia: Conway Stewart",
+    "u": "https://en.wikipedia.org/w/index.php?search=Conway+Stewart"
+   }
+  ],
+  "verify": true,
+  "vintage": false
+ },
+ {
+  "id": "wingsung-601",
+  "brandId": "wing-sung",
+  "name": "601",
+  "years": [
+   null,
+   null
+  ],
+  "filler": "vacuum",
+  "summary": "A Chinese vacuum-filler with a hooded nib, a long-running favourite among collectors.",
+  "sources": [
+   {
+    "t": "Wikipedia: Wing Sung",
+    "u": "https://en.wikipedia.org/w/index.php?search=Wing+Sung"
+   }
+  ],
+  "verify": true,
+  "vintage": false
+ },
+ {
+  "id": "parker-lucky-curve",
+  "brandId": "parker",
+  "name": "Lucky Curve",
+  "years": [
+   1894,
+   null
+  ],
+  "filler": "eyedropper",
+  "summary": "An early Parker design built around a curved feed that drew back ink when the pen was put away, to cut down on leaks.",
+  "sources": [
+   {
+    "t": "Wikipedia: Parker Pen Company",
+    "u": "https://en.wikipedia.org/w/index.php?search=Parker+Pen+Company"
+   }
+  ],
+  "vintage": true,
+  "circa": true,
+  "verify": true
+ },
+ {
+  "id": "parker-jack-knife",
+  "brandId": "parker",
+  "name": "Jack Knife Safety",
+  "years": [
+   1912,
+   null
+  ],
+  "filler": "button",
+  "summary": "An early Parker safety pen with a button filler, made for people who carried their pens in a pocket.",
+  "sources": [
+   {
+    "t": "Wikipedia: Parker Pen Company",
+    "u": "https://en.wikipedia.org/w/index.php?search=Parker+Pen+Company"
+   }
+  ],
+  "vintage": true,
+  "circa": true,
+  "verify": true
+ },
+ {
+  "id": "sheaffer-lever-filler",
+  "brandId": "sheaffer",
+  "name": "Lever-Filler",
+  "years": [
+   1912,
+   null
+  ],
+  "filler": "lever",
+  "summary": "Walter Sheaffer's lever filler, where a small side lever squeezes an ink sac. It was easier than an eyedropper and became the standard in the 1920s.",
+  "sources": [
+   {
+    "t": "Wikipedia: Sheaffer Pen Company",
+    "u": "https://en.wikipedia.org/w/index.php?search=Sheaffer+Pen+Company"
+   }
+  ],
+  "vintage": true,
+  "verify": true
+ },
+ {
+  "id": "hero-616",
+  "brandId": "hero",
+  "name": "616",
+  "years": [
+   null,
+   null
+  ],
+  "filler": "aerometric",
+  "summary": "A long-running Chinese pen sold in huge numbers. Its exact start date is not confirmed here.",
+  "sources": [
+   {
+    "t": "Wikipedia: Shanghai Hero Pen Company",
+    "u": "https://en.wikipedia.org/w/index.php?search=Shanghai+Hero+Pen+Company"
+   }
+  ],
+  "vintage": true,
+  "verify": true
+ }
+]

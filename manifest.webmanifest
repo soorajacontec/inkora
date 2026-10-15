@@ -1,0 +1,24 @@
+{
+  "id": "./",
+  "name": "Inkora: the world of fountain pens",
+  "short_name": "Inkora",
+  "description": "Fountain pen brands and models worldwide, old and new, with animated explanations, history and a writing pad.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0d1020",
+  "theme_color": "#0d1020",
+  "categories": ["education", "lifestyle", "books"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ],
+  "shortcuts": [
+    { "name": "Brands", "url": "./#brands", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Animated", "url": "./#animate", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Write", "url": "./#write", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] }
+  ]
+}

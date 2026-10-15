@@ -1,0 +1,169 @@
+[
+ {
+  "id": "clay-stylus",
+  "name": "Clay tablet and reed stylus",
+  "region": "Mesopotamia",
+  "eraText": "about 3400 BCE onward",
+  "sort": -3400,
+  "tool": "A cut reed pressed into wet clay",
+  "surface": "Wet clay",
+  "how": "Scribes pressed the end of a reed into soft clay, leaving wedge-shaped marks (cuneiform). The tablet was dried or baked to keep the record.",
+  "sources": [
+   {
+    "t": "Wikipedia: Cuneiform",
+    "u": "https://en.wikipedia.org/w/index.php?search=Cuneiform"
+   }
+  ],
+  "verify": true
+ },
+ {
+  "id": "reed-papyrus",
+  "name": "Reed pen on papyrus",
+  "region": "Egypt",
+  "eraText": "about 2500 BCE onward",
+  "sort": -2500,
+  "tool": "Cut reed brush or pen",
+  "surface": "Papyrus",
+  "how": "A reed was cut to a point or a brush end and dipped in black carbon ink made from soot and gum. Papyrus sheets were glued into long rolls.",
+  "sources": [
+   {
+    "t": "Wikipedia: Reed pen",
+    "u": "https://en.wikipedia.org/w/index.php?search=Reed+pen"
+   }
+  ],
+  "verify": true
+ },
+ {
+  "id": "wax-tablet",
+  "name": "Wax tablet and stylus",
+  "region": "Ancient Greece and Rome",
+  "eraText": "from about 1300 BCE",
+  "sort": -1300,
+  "tool": "Metal or bone stylus",
+  "surface": "Wax in a wooden frame",
+  "how": "Letters were scratched into a layer of wax. To reuse the tablet, the flat end of the stylus smoothed the wax over again.",
+  "sources": [
+   {
+    "t": "Wikipedia: Wax tablet",
+    "u": "https://en.wikipedia.org/w/index.php?search=Wax+tablet"
+   }
+  ],
+  "verify": true
+ },
+ {
+  "id": "brush-ink",
+  "name": "Brush and ink stick",
+  "region": "China and East Asia",
+  "eraText": "over 2,000 years",
+  "sort": -300,
+  "tool": "Animal-hair brush",
+  "surface": "Silk, bamboo, later paper",
+  "how": "An ink stick is rubbed with water on an ink stone to make fresh ink. The brush's softness lets the writer vary the line from hair-fine to thick.",
+  "sources": [
+   {
+    "t": "Wikipedia: Chinese calligraphy",
+    "u": "https://en.wikipedia.org/w/index.php?search=Chinese+calligraphy"
+   }
+  ],
+  "verify": true
+ },
+ {
+  "id": "palm-leaf",
+  "name": "Palm leaf and iron stylus",
+  "region": "South and Southeast Asia (including Kerala and Tamil Nadu)",
+  "eraText": "ancient times to the 19th century",
+  "sort": 0,
+  "tool": "Sharp iron stylus (ezhuthani in Malayalam)",
+  "surface": "Dried, cut palm leaf strips (ola)",
+  "how": "Palm leaves are dried and cut into long strips. A scribe scratches the letters into the leaf with an iron stylus. Soot or lamp-black mixed with oil is rubbed over the leaf and wiped off, so it stays only in the grooves. Strips are threaded on a cord through holes to make a book.",
+  "sources": [
+   {
+    "t": "Wikipedia: Palm-leaf manuscript",
+    "u": "https://en.wikipedia.org/w/index.php?search=Palm-leaf+manuscript"
+   }
+  ],
+  "verify": true
+ },
+ {
+  "id": "birch-bark",
+  "name": "Birch bark and bone stylus",
+  "region": "Novgorod and other northern Russian towns",
+  "eraText": "11th to 15th century",
+  "sort": 1100,
+  "tool": "Pointed bone or metal stylus",
+  "surface": "Birch bark",
+  "how": "Ordinary people scratched short letters, notes and lists onto strips of birch bark. Hundreds of these have been found in the soil of Novgorod.",
+  "sources": [
+   {
+    "t": "Wikipedia: Birch bark manuscript",
+    "u": "https://en.wikipedia.org/w/index.php?search=Birch+bark+manuscript"
+   }
+  ],
+  "verify": true
+ },
+ {
+  "id": "quill-parchment",
+  "name": "Quill and iron-gall ink",
+  "region": "Europe and the Middle East",
+  "eraText": "about 600 to the 19th century",
+  "sort": 600,
+  "tool": "Goose, swan or crow quill",
+  "surface": "Parchment, vellum and later paper",
+  "how": "A feather was cut to a point with a knife, giving a flexible nib. Ink was made from oak galls, iron salts and gum, and darkened as it dried on the page.",
+  "sources": [
+   {
+    "t": "Wikipedia: Quill",
+    "u": "https://en.wikipedia.org/w/index.php?search=Quill"
+   }
+  ]
+ },
+ {
+  "id": "steel-dip",
+  "name": "Steel dip pen",
+  "region": "Britain and the world",
+  "eraText": "from about 1822",
+  "sort": 1822,
+  "tool": "Metal nib on a holder",
+  "surface": "Paper",
+  "how": "Cheap steel nibs let nearly everyone write and draw. The nib had to be dipped into an inkwell every few words.",
+  "sources": [
+   {
+    "t": "Wikipedia: Dip pen",
+    "u": "https://en.wikipedia.org/w/index.php?search=Dip+pen"
+   }
+  ],
+  "verify": true
+ },
+ {
+  "id": "fountain",
+  "name": "Fountain pen",
+  "region": "Europe, the United States and Asia",
+  "eraText": "from the 1880s (earlier inventions existed)",
+  "sort": 1884,
+  "tool": "Nib with a built-in ink reservoir",
+  "surface": "Paper",
+  "how": "The pen carries its own ink and feeds it to the nib by capillary action. The nib is tipped with a hard metal so it keeps its shape.",
+  "sources": [
+   {
+    "t": "Wikipedia: Fountain pen",
+    "u": "https://en.wikipedia.org/w/index.php?search=Fountain+pen"
+   }
+  ]
+ },
+ {
+  "id": "ballpoint",
+  "name": "Ballpoint pen",
+  "region": "Hungary, Argentina and the world",
+  "eraText": "patented 1938",
+  "sort": 1938,
+  "tool": "Tiny ball in a socket, with oily ink",
+  "surface": "Paper",
+  "how": "A small rolling ball picks up thick, quick-drying ink from a cartridge. It is cheap and leak-resistant, and it replaced the fountain pen for most everyday writing.",
+  "sources": [
+   {
+    "t": "Wikipedia: Ballpoint pen",
+    "u": "https://en.wikipedia.org/w/index.php?search=Ballpoint+pen"
+   }
+  ]
+ }
+]

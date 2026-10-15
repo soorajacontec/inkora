@@ -1,0 +1,263 @@
+[
+ {
+  "id": "eyedropper",
+  "name": "Eyedropper",
+  "era": [
+   1880,
+   null
+  ],
+  "circa": true,
+  "verify": true,
+  "scene": "eyedropper",
+  "examples": [
+   "waterman-ideal"
+  ],
+  "howItWorks": "The nib section unscrews from the barrel and the barrel itself becomes the ink tank. You fill it with a glass dropper, then screw the section back.",
+  "pros": "Very large ink capacity and no moving parts.",
+  "cons": "Can leak at the threads, and filling is messy.",
+  "sources": [
+   {
+    "t": "Wikipedia: Fountain pen",
+    "u": "https://en.wikipedia.org/w/index.php?search=Fountain+pen"
+   }
+  ]
+ },
+ {
+  "id": "crescent",
+  "name": "Crescent filler",
+  "era": [
+   1901,
+   1930
+  ],
+  "circa": true,
+  "verify": true,
+  "scene": "crescent",
+  "examples": [
+   "conklin-crescent"
+  ],
+  "howItWorks": "A crescent-shaped ring on the barrel presses a bar against a rubber sac inside. Press, dip the nib in ink, release: the sac springs back and pulls ink in.",
+  "pros": "Self-contained and quick; no loose parts.",
+  "cons": "The sac eventually perishes and needs replacing.",
+  "sources": [
+   {
+    "t": "Wikipedia: Conklin Pen Company",
+    "u": "https://en.wikipedia.org/w/index.php?search=Conklin+Pen+Company"
+   }
+  ]
+ },
+ {
+  "id": "lever",
+  "name": "Lever filler",
+  "era": [
+   1908,
+   null
+  ],
+  "circa": true,
+  "scene": "lever",
+  "examples": [
+   "sheaffer-balance",
+   "esterbrook-j"
+  ],
+  "howItWorks": "A small lever on the side lifts a pressure bar that squeezes a rubber sac. Lift the lever, dip the nib, lower the lever, and the sac fills with ink.",
+  "pros": "Simple, reliable and easy to use.",
+  "cons": "Holds less ink than a piston; sacs age.",
+  "sources": [
+   {
+    "t": "Wikipedia: Fountain pen",
+    "u": "https://en.wikipedia.org/w/index.php?search=Fountain+pen"
+   }
+  ]
+ },
+ {
+  "id": "button",
+  "name": "Button filler",
+  "era": [
+   1913,
+   null
+  ],
+  "circa": true,
+  "verify": true,
+  "scene": "button",
+  "examples": [
+   "parker-duofold"
+  ],
+  "howItWorks": "A button at the end of the barrel pushes a pressure bar against the sac. Press the button, dip the nib, let go, and ink is drawn in.",
+  "pros": "Neat: no side lever to catch on a pocket.",
+  "cons": "The sac must be replaced when it hardens or splits.",
+  "sources": [
+   {
+    "t": "Wikipedia: Parker Duofold",
+    "u": "https://en.wikipedia.org/w/index.php?search=Parker+Duofold"
+   }
+  ]
+ },
+ {
+  "id": "plunger",
+  "name": "Plunger filler",
+  "era": [
+   1905,
+   null
+  ],
+  "circa": true,
+  "verify": true,
+  "scene": "plunger",
+  "examples": [
+   "onoto-plunger",
+   "pilot-custom-823"
+  ],
+  "howItWorks": "A rod with a seal on the end slides inside the barrel like a syringe. Push it down to expel air, dip the nib, pull it up to draw ink in.",
+  "pros": "Holds a lot of ink and works without a rubber sac.",
+  "cons": "Needs a precise, well-sealed mechanism.",
+  "sources": [
+   {
+    "t": "Wikipedia: Onoto",
+    "u": "https://en.wikipedia.org/w/index.php?search=Onoto"
+   }
+  ]
+ },
+ {
+  "id": "vacuum",
+  "name": "Vacuum filler",
+  "era": [
+   1932,
+   null
+  ],
+  "circa": true,
+  "scene": "vacuum",
+  "examples": [
+   "parker-vacumatic",
+   "wingsung-601"
+  ],
+  "howItWorks": "Pressing a plunger flexes a diaphragm inside the barrel. Released with the nib in ink, the diaphragm pulls ink up and in.",
+  "pros": "Large capacity and fast to fill.",
+  "cons": "Complex to repair.",
+  "sources": [
+   {
+    "t": "Wikipedia: Parker Vacumatic",
+    "u": "https://en.wikipedia.org/w/index.php?search=Parker+Vacumatic"
+   }
+  ]
+ },
+ {
+  "id": "piston",
+  "name": "Piston filler",
+  "era": [
+   1929,
+   null
+  ],
+  "circa": true,
+  "scene": "piston",
+  "examples": [
+   "pelikan-100",
+   "pelikan-400",
+   "pelikan-m800",
+   "lamy-2000",
+   "montblanc-149",
+   "montblanc-146",
+   "aurora-88",
+   "twsbi-eco",
+   "visconti-homo-sapiens"
+  ],
+  "howItWorks": "Turning a knob at the end of the barrel moves a piston along a thread. Turn one way to push air out, dip the nib, turn the other way to draw ink in, like a syringe.",
+  "pros": "High capacity, no sac to perish, and ink level can be seen in clear barrels.",
+  "cons": "More parts and more costly to build.",
+  "sources": [
+   {
+    "t": "Wikipedia: Pelikan AG",
+    "u": "https://en.wikipedia.org/w/index.php?search=Pelikan+AG"
+   }
+  ]
+ },
+ {
+  "id": "snorkel",
+  "name": "Snorkel filler",
+  "era": [
+   1952,
+   1959
+  ],
+  "circa": true,
+  "scene": "snorkel",
+  "examples": [
+   "sheaffer-snorkel"
+  ],
+  "howItWorks": "A thin tube slides out of the nib unit and dips into the ink, so the nib stays clean. A plunger action then draws ink up the tube.",
+  "pros": "Clean: the nib never touches the ink.",
+  "cons": "Complicated, so repairs are specialist work.",
+  "sources": [
+   {
+    "t": "Wikipedia: Sheaffer",
+    "u": "https://en.wikipedia.org/w/index.php?search=Sheaffer"
+   }
+  ]
+ },
+ {
+  "id": "aerometric",
+  "name": "Aerometric filler",
+  "era": [
+   1948,
+   1978
+  ],
+  "circa": true,
+  "verify": true,
+  "scene": "aerometric",
+  "examples": [
+   "parker-51"
+  ],
+  "howItWorks": "A flexible sac sits inside a metal sleeve. Squeeze the sleeve to flatten the sac, dip the nib, and release it so the sac pulls ink in.",
+  "pros": "Sealed unit that is easy to refill.",
+  "cons": "Capacity is limited by the sac size.",
+  "sources": [
+   {
+    "t": "Wikipedia: Parker 51",
+    "u": "https://en.wikipedia.org/w/index.php?search=Parker+51"
+   }
+  ]
+ },
+ {
+  "id": "capillary",
+  "name": "Capillary filler",
+  "era": [
+   1956,
+   1967
+  ],
+  "circa": true,
+  "verify": true,
+  "scene": "capillary",
+  "examples": [
+   "parker-61"
+  ],
+  "howItWorks": "Narrow channels inside the filler pull ink upward by capillary action when the nib is dipped in ink. No squeezing is needed.",
+  "pros": "Clean and quick; no sac to fail.",
+  "cons": "Smaller capacity and unusual to repair.",
+  "sources": [
+   {
+    "t": "Wikipedia: Parker 61",
+    "u": "https://en.wikipedia.org/w/index.php?search=Parker+61"
+   }
+  ]
+ },
+ {
+  "id": "cartridge",
+  "name": "Cartridge / converter",
+  "era": [
+   1953,
+   null
+  ],
+  "scene": "cartridge",
+  "examples": [
+   "waterman-cf",
+   "lamy-safari",
+   "pilot-capless",
+   "parker-75"
+  ],
+  "howItWorks": "A sealed ink cartridge is pushed onto a pin that pierces it. A converter is a refillable cartridge with a small piston, so you can use bottled ink.",
+  "pros": "Cleanest and easiest to use, and ideal for travel.",
+  "cons": "Brand-specific sizes, and each cartridge holds only a little ink.",
+  "sources": [
+   {
+    "t": "Wikipedia: Fountain pen",
+    "u": "https://en.wikipedia.org/w/index.php?search=Fountain+pen"
+   }
+  ]
+ }
+]

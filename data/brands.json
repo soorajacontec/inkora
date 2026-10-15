@@ -1,0 +1,740 @@
+[
+ {
+  "id": "pilot",
+  "name": "Pilot",
+  "cc": "JP",
+  "country": "Japan",
+  "city": "Tokyo",
+  "founded": 1918,
+  "closed": null,
+  "summary": "Japan's largest pen maker. It began in 1918 as Namiki Manufacturing and is known for gold-nib pens, the Custom range and the click-retractable Capless.",
+  "notable": [
+   "pilot-capless",
+   "pilot-custom-823"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Pilot Corporation",
+    "u": "https://en.wikipedia.org/w/index.php?search=Pilot+Corporation"
+   }
+  ]
+ },
+ {
+  "id": "sailor",
+  "name": "Sailor",
+  "cc": "JP",
+  "country": "Japan",
+  "city": "Hiroshima Prefecture",
+  "founded": 1911,
+  "closed": null,
+  "summary": "One of Japan's oldest pen makers, founded in 1911 in Hiroshima Prefecture. Known for generous gold nibs, the Professional Gear line and a wide range of inks.",
+  "notable": [
+   "sailor-pro-gear"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Sailor Pen Company",
+    "u": "https://en.wikipedia.org/w/index.php?search=Sailor+Pen+Company"
+   }
+  ]
+ },
+ {
+  "id": "platinum",
+  "name": "Platinum",
+  "cc": "JP",
+  "country": "Japan",
+  "city": "Tokyo",
+  "founded": 1919,
+  "closed": null,
+  "summary": "Tokyo maker founded in 1919. Its Slip & Seal cap keeps the nib from drying out, and the #3776 Century is its best-known gold-nib pen.",
+  "notable": [
+   "platinum-3776"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Platinum Pen Company",
+    "u": "https://en.wikipedia.org/w/index.php?search=Platinum+Pen+Company"
+   }
+  ]
+ },
+ {
+  "id": "parker",
+  "name": "Parker",
+  "cc": "US",
+  "country": "United States",
+  "city": "Janesville, Wisconsin",
+  "founded": 1888,
+  "closed": null,
+  "summary": "Founded by George S. Parker in Janesville, Wisconsin. From the Duofold to the 51, Parker produced several of the most influential pens of the 20th century.",
+  "notable": [
+   "parker-duofold",
+   "parker-vacumatic",
+   "parker-51",
+   "parker-61",
+   "parker-75",
+   "parker-lucky-curve",
+   "parker-jack-knife"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Parker Pen Company",
+    "u": "https://en.wikipedia.org/w/index.php?search=Parker+Pen+Company"
+   }
+  ]
+ },
+ {
+  "id": "waterman",
+  "name": "Waterman",
+  "cc": "US",
+  "country": "United States",
+  "city": "New York",
+  "founded": 1884,
+  "closed": null,
+  "summary": "Started in New York by Lewis Waterman, who patented a reliable ink feed in 1884. The company later built a major base in France.",
+  "notable": [
+   "waterman-ideal",
+   "waterman-cf"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Waterman Pens",
+    "u": "https://en.wikipedia.org/w/index.php?search=Waterman+Pens"
+   }
+  ]
+ },
+ {
+  "id": "sheaffer",
+  "name": "Sheaffer",
+  "cc": "US",
+  "country": "United States",
+  "city": "Fort Madison, Iowa",
+  "founded": 1913,
+  "closed": null,
+  "summary": "Founded in 1913 by Walter A. Sheaffer, who had patented the lever filler in 1908. Known for white-dot Lifetime nibs, the Balance and the Snorkel.",
+  "notable": [
+   "sheaffer-balance",
+   "sheaffer-snorkel",
+   "sheaffer-lever-filler"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Sheaffer",
+    "u": "https://en.wikipedia.org/w/index.php?search=Sheaffer"
+   }
+  ]
+ },
+ {
+  "id": "cross",
+  "name": "Cross",
+  "cc": "US",
+  "country": "United States",
+  "city": "Providence, Rhode Island",
+  "founded": 1846,
+  "closed": null,
+  "summary": "American writing-instrument maker founded in 1846 in Providence, Rhode Island. It began with pencil cases and went on to make pens of many kinds, including fountain pens.",
+  "notable": [],
+  "sources": [
+   {
+    "t": "Wikipedia: A.T. Cross Company",
+    "u": "https://en.wikipedia.org/w/index.php?search=A.T.+Cross+Company"
+   }
+  ]
+ },
+ {
+  "id": "montblanc",
+  "name": "Montblanc",
+  "cc": "DE",
+  "country": "Germany",
+  "city": "Hamburg",
+  "founded": 1906,
+  "closed": null,
+  "summary": "Founded in Hamburg in 1906 as the Simplo Filler Pen Company and renamed Montblanc in 1910. The white six-pointed star and the Meisterstück line (from 1924) are its trademarks.",
+  "notable": [
+   "montblanc-149",
+   "montblanc-146"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Montblanc (company)",
+    "u": "https://en.wikipedia.org/w/index.php?search=Montblanc+%28company%29"
+   }
+  ]
+ },
+ {
+  "id": "pelikan",
+  "name": "Pelikan",
+  "cc": "DE",
+  "country": "Germany",
+  "city": "Hanover",
+  "founded": 1838,
+  "closed": null,
+  "summary": "Its roots go back to 1838. Günther Wagner took over the firm in 1871 and registered the pelican trademark in 1878; the first Pelikan piston-filler pen arrived in 1929.",
+  "notable": [
+   "pelikan-100",
+   "pelikan-400",
+   "pelikan-m800"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Pelikan AG",
+    "u": "https://en.wikipedia.org/w/index.php?search=Pelikan+AG"
+   }
+  ]
+ },
+ {
+  "id": "lamy",
+  "name": "Lamy",
+  "cc": "DE",
+  "country": "Germany",
+  "city": "Heidelberg",
+  "founded": 1930,
+  "closed": null,
+  "summary": "Founded in Heidelberg in 1930 by C. Josef Lamy. Known for modernist design; the Lamy 2000 (1966) and the Safari (1980) are modern classics.",
+  "notable": [
+   "lamy-2000",
+   "lamy-safari"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Lamy (company)",
+    "u": "https://en.wikipedia.org/w/index.php?search=Lamy+%28company%29"
+   }
+  ]
+ },
+ {
+  "id": "kaweco",
+  "name": "Kaweco",
+  "cc": "DE",
+  "country": "Germany",
+  "city": "Heidelberg",
+  "founded": 1883,
+  "closed": null,
+  "summary": "Heidelberg maker founded in 1883 as Koch, Weber & Co. (the name Kaweco comes from the founders). Today it is best known for the pocket-sized Sport.",
+  "notable": [
+   "kaweco-sport"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Kaweco",
+    "u": "https://en.wikipedia.org/w/index.php?search=Kaweco"
+   }
+  ]
+ },
+ {
+  "id": "faber-castell",
+  "name": "Faber-Castell",
+  "cc": "DE",
+  "country": "Germany",
+  "city": "Stein, near Nuremberg",
+  "founded": 1761,
+  "closed": null,
+  "summary": "One of the world's oldest pencil makers (1761). It also makes fountain pens, including the Graf von Faber-Castell and Ambition lines.",
+  "notable": [],
+  "sources": [
+   {
+    "t": "Wikipedia: Faber-Castell",
+    "u": "https://en.wikipedia.org/w/index.php?search=Faber-Castell"
+   }
+  ]
+ },
+ {
+  "id": "visconti",
+  "name": "Visconti",
+  "cc": "IT",
+  "country": "Italy",
+  "city": "Florence",
+  "founded": 1988,
+  "closed": null,
+  "verify": true,
+  "summary": "Florence maker founded in 1988, known for bold materials such as lava from Mount Etna and for its own filling systems.",
+  "notable": [
+   "visconti-homo-sapiens"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Visconti (pen company)",
+    "u": "https://en.wikipedia.org/w/index.php?search=Visconti+%28pen+company%29"
+   }
+  ]
+ },
+ {
+  "id": "aurora",
+  "name": "Aurora",
+  "cc": "IT",
+  "country": "Italy",
+  "city": "Turin",
+  "founded": 1919,
+  "closed": null,
+  "summary": "Turin maker founded in 1919 by Isaia Levi. The Aurora 88 of 1947 is a mid-century Italian classic.",
+  "notable": [
+   "aurora-88"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Aurora (pen company)",
+    "u": "https://en.wikipedia.org/w/index.php?search=Aurora+%28pen+company%29"
+   }
+  ]
+ },
+ {
+  "id": "omas",
+  "name": "OMAS",
+  "cc": "IT",
+  "country": "Italy",
+  "city": "Bologna",
+  "founded": 1925,
+  "closed": 2016,
+  "verify": true,
+  "summary": "Bologna maker (Officina Meccanica Armando Simoni) known for faceted celluloid pens. The original company stopped trading in 2016.",
+  "notable": [],
+  "sources": [
+   {
+    "t": "Wikipedia: OMAS",
+    "u": "https://en.wikipedia.org/w/index.php?search=OMAS"
+   }
+  ]
+ },
+ {
+  "id": "montegrappa",
+  "name": "Montegrappa",
+  "cc": "IT",
+  "country": "Italy",
+  "city": "Bassano del Grappa",
+  "founded": 1912,
+  "closed": null,
+  "summary": "Often described as Italy's oldest pen brand, founded in 1912 in Bassano del Grappa.",
+  "notable": [],
+  "sources": [
+   {
+    "t": "Wikipedia: Montegrappa",
+    "u": "https://en.wikipedia.org/w/index.php?search=Montegrappa"
+   }
+  ]
+ },
+ {
+  "id": "twsbi",
+  "name": "TWSBI",
+  "cc": "TW",
+  "country": "Taiwan",
+  "city": "Taichung",
+  "founded": 2009,
+  "closed": null,
+  "verify": true,
+  "summary": "Taiwanese brand known for affordable clear-bodied piston-fillers. The ECO arrived in 2015.",
+  "notable": [
+   "twsbi-eco"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: TWSBI",
+    "u": "https://en.wikipedia.org/w/index.php?search=TWSBI"
+   }
+  ]
+ },
+ {
+  "id": "hero",
+  "name": "Hero",
+  "cc": "CN",
+  "country": "China",
+  "city": "Shanghai",
+  "founded": 1931,
+  "closed": null,
+  "verify": true,
+  "summary": "Shanghai brand dating to the 1930s, historically a mass-market Chinese maker and a collector favourite for designs that echo mid-century Parker pens.",
+  "notable": [
+   "hero-616"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Hero (pen company)",
+    "u": "https://en.wikipedia.org/w/index.php?search=Hero+%28pen+company%29"
+   }
+  ]
+ },
+ {
+  "id": "wing-sung",
+  "name": "Wing Sung",
+  "cc": "CN",
+  "country": "China",
+  "city": "Shanghai",
+  "founded": 1932,
+  "closed": null,
+  "verify": true,
+  "summary": "Chinese maker known for the 601, a vacuum-filler that resembles the Parker 51.",
+  "notable": [
+   "wingsung-601"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Wing Sung",
+    "u": "https://en.wikipedia.org/w/index.php?search=Wing+Sung"
+   }
+  ]
+ },
+ {
+  "id": "conklin",
+  "name": "Conklin",
+  "cc": "US",
+  "country": "United States",
+  "city": "Toledo, Ohio",
+  "founded": 1898,
+  "closed": 1938,
+  "verify": true,
+  "summary": "Toledo firm founded by Roy Conklin, famous for the crescent filler introduced in 1901. The original company faded in the 1930s; the name was later revived.",
+  "notable": [
+   "conklin-crescent"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Conklin Pen Company",
+    "u": "https://en.wikipedia.org/w/index.php?search=Conklin+Pen+Company"
+   }
+  ]
+ },
+ {
+  "id": "wahl-eversharp",
+  "name": "Wahl-Eversharp",
+  "cc": "US",
+  "country": "United States",
+  "city": "Chicago",
+  "founded": 1905,
+  "closed": null,
+  "verify": true,
+  "summary": "Chicago company best known for the Eversharp mechanical pencil, which also made Art Deco and streamlined fountain pens.",
+  "notable": [
+   "eversharp-skyline"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Eversharp",
+    "u": "https://en.wikipedia.org/w/index.php?search=Eversharp"
+   }
+  ]
+ },
+ {
+  "id": "esterbrook",
+  "name": "Esterbrook",
+  "cc": "US",
+  "country": "United States",
+  "city": "Camden, New Jersey",
+  "founded": 1858,
+  "closed": 1971,
+  "summary": "Began in 1858 as a steel-nib maker. Its affordable J of the 1930s, with swappable nib units, was hugely popular. The US pen business closed in 1971.",
+  "notable": [
+   "esterbrook-j"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Esterbrook",
+    "u": "https://en.wikipedia.org/w/index.php?search=Esterbrook"
+   }
+  ]
+ },
+ {
+  "id": "onoto",
+  "name": "Onoto",
+  "cc": "GB",
+  "country": "United Kingdom",
+  "city": "London",
+  "founded": 1905,
+  "closed": 1958,
+  "verify": true,
+  "summary": "Made by the British firm De La Rue, Onoto popularised the plunger filler from 1905. The original range ended in the 1950s.",
+  "notable": [
+   "onoto-plunger"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Onoto",
+    "u": "https://en.wikipedia.org/w/index.php?search=Onoto"
+   }
+  ]
+ },
+ {
+  "id": "conway-stewart",
+  "name": "Conway Stewart",
+  "cc": "GB",
+  "country": "United Kingdom",
+  "city": "London",
+  "founded": 1905,
+  "closed": 1975,
+  "verify": true,
+  "summary": "London maker founded in 1905 and famous for colourful marbled celluloid pens. The original company closed in 1975.",
+  "notable": [
+   "conway-stewart-58"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Conway Stewart",
+    "u": "https://en.wikipedia.org/w/index.php?search=Conway+Stewart"
+   }
+  ]
+ },
+ {
+  "id": "st-dupont",
+  "name": "S.T. Dupont",
+  "cc": "FR",
+  "country": "France",
+  "city": "Paris",
+  "founded": 1872,
+  "closed": null,
+  "summary": "Parisian luxury house founded in 1872 by Simon Tissot-Dupont. Best known for lighters, it also makes fine writing instruments.",
+  "notable": [],
+  "sources": [
+   {
+    "t": "Wikipedia: S. T. Dupont",
+    "u": "https://en.wikipedia.org/w/index.php?search=S.+T.+Dupont"
+   }
+  ]
+ },
+ {
+  "id": "camlin",
+  "name": "Camlin",
+  "cc": "IN",
+  "country": "India",
+  "city": "Mumbai",
+  "founded": 1931,
+  "closed": null,
+  "summary": "Indian stationery maker. Camlin was one of the early makers of Indian fountain-pen ink, dating from 1931 in one history of Indian pens, and it later sold pens and art supplies.",
+  "notable": [],
+  "sources": [
+   {
+    "t": "ORF: A Fountain Pen Story",
+    "u": "https://www.orfonline.org/research/a-fountain-pen-story-68679"
+   },
+   {
+    "t": "Wikipedia: Camlin",
+    "u": "https://en.wikipedia.org/w/index.php?search=Camlin"
+   }
+  ],
+  "verify": true
+ },
+ {
+  "id": "chelpark",
+  "name": "Chelpark",
+  "cc": "IN",
+  "country": "India",
+  "city": "Bangalore",
+  "founded": 1943,
+  "closed": 2010,
+  "summary": "Started in 1943 when the Chellaram family, together with Parker, took over Parker's Indian subsidiary. It moved its head office from Madras to Bangalore in 1985, made fountain pens and ink, and stopped making them in the 2010s.",
+  "notable": [],
+  "sources": [
+   {
+    "t": "Wikipedia: Chelpark",
+    "u": "https://en.wikipedia.org/wiki/Chelpark"
+   }
+  ],
+  "closedNote": "pens ended 2010s"
+ },
+ {
+  "id": "ratnam-pen-works",
+  "name": "Ratnam Pen Works",
+  "cc": "IN",
+  "country": "India",
+  "city": "Rajahmundry",
+  "founded": 1932,
+  "closed": null,
+  "summary": "Set up by Kosuri Venkata Ratnam and his brother Satyanarayana. Gandhi turned down their first ebonite pen as not swadeshi enough, but thanked them for a second one sent in 1935.",
+  "notable": [],
+  "sources": [
+   {
+    "t": "ORF: A Fountain Pen Story",
+    "u": "https://www.orfonline.org/research/a-fountain-pen-story-68679"
+   }
+  ]
+ },
+ {
+  "id": "luxmy-stylo",
+  "name": "Luxmy Stylo Pen Works",
+  "cc": "IN",
+  "country": "India",
+  "city": "Varanasi",
+  "founded": 1907,
+  "closed": null,
+  "summary": "An early Indian maker run by the inventor Dr R. N. Saha. A history of Indian pens dates the works to 1907 and uses his 1911 book as its main early source.",
+  "notable": [],
+  "sources": [
+   {
+    "t": "ORF: A Fountain Pen Story",
+    "u": "https://www.orfonline.org/research/a-fountain-pen-story-68679"
+   }
+  ],
+  "verify": true
+ },
+ {
+  "id": "deccan-pen-stores",
+  "name": "Deccan Pen Stores",
+  "cc": "IN",
+  "country": "India",
+  "city": "Hyderabad",
+  "founded": 1918,
+  "closed": null,
+  "summary": "Founded by S. A. Siddiqui as a pen shop and repair business, which later made its own pens. Deccan is still named among Indian pen brands.",
+  "notable": [],
+  "sources": [
+   {
+    "t": "ORF: A Fountain Pen Story",
+    "u": "https://www.orfonline.org/research/a-fountain-pen-story-68679"
+   },
+   {
+    "t": "Inked Happiness: Indian brands",
+    "u": "https://www.inkedhappiness.com/indian-fountainpen-ink-and-accessory-brands-one-should-know-about/"
+   }
+  ],
+  "verify": true
+ },
+ {
+  "id": "hilal-sultan",
+  "name": "Hilal Pen Stores (Sultan)",
+  "cc": "IN",
+  "country": "India",
+  "city": "Hyderabad",
+  "founded": 1952,
+  "closed": 1991,
+  "summary": "Hyderabad firm whose Sultan brand started in 1952. It is listed among the makers that closed after the 1991 opening of the Indian economy.",
+  "notable": [],
+  "sources": [
+   {
+    "t": "ORF: A Fountain Pen Story",
+    "u": "https://www.orfonline.org/research/a-fountain-pen-story-68679"
+   }
+  ],
+  "closedNote": "closed after 1991",
+  "verify": true
+ },
+ {
+  "id": "gem-gama",
+  "name": "Gem & Co. (Gama)",
+  "cc": "IN",
+  "country": "India",
+  "city": "Chennai",
+  "founded": 1920,
+  "closed": null,
+  "summary": "A Chennai company from the 1920s that later made the Gama brand. Gama is still described as a maker of pens in the old-fashioned way.",
+  "notable": [],
+  "sources": [
+   {
+    "t": "ORF: A Fountain Pen Story",
+    "u": "https://www.orfonline.org/research/a-fountain-pen-story-68679"
+   },
+   {
+    "t": "Inked Happiness: Indian brands",
+    "u": "https://www.inkedhappiness.com/indian-fountainpen-ink-and-accessory-brands-one-should-know-about/"
+   }
+  ],
+  "verify": true
+ },
+ {
+  "id": "rightaids",
+  "name": "Rightaids (Orient)",
+  "cc": "IN",
+  "country": "India",
+  "city": "Bangalore",
+  "founded": 1951,
+  "closed": null,
+  "summary": "Started in Bangalore in 1951 and made pens under a Waterman licence, at a time when foreign pens were hard to import.",
+  "notable": [],
+  "sources": [
+   {
+    "t": "ORF: A Fountain Pen Story",
+    "u": "https://www.orfonline.org/research/a-fountain-pen-story-68679"
+   }
+  ]
+ },
+ {
+  "id": "wality",
+  "name": "Wality (Airmail)",
+  "cc": "IN",
+  "country": "India",
+  "city": "India",
+  "founded": 1950,
+  "closed": null,
+  "summary": "Indian maker that has been in business since the mid-20th century and is still active. Airmail is one of its pen brands.",
+  "notable": [],
+  "sources": [
+   {
+    "t": "Inked Happiness: Indian brands",
+    "u": "https://www.inkedhappiness.com/indian-fountainpen-ink-and-accessory-brands-one-should-know-about/"
+   }
+  ],
+  "verify": true
+ },
+ {
+  "id": "soennecken",
+  "name": "Soennecken",
+  "cc": "DE",
+  "country": "Germany",
+  "city": "Bonn",
+  "founded": 1875,
+  "closed": 1973,
+  "summary": "Founded by Friedrich Soennecken, who is linked with the development of the pen, the ring binder and the hole punch. The company went bankrupt in 1973, and the name is now held by another firm.",
+  "notable": [],
+  "sources": [
+   {
+    "t": "Wikipedia: Soennecken",
+    "u": "https://en.wikipedia.org/w/index.php?search=Soennecken"
+   }
+  ],
+  "closedNote": "bankrupt 1973",
+  "verify": true
+ },
+ {
+  "id": "yard-o-led",
+  "name": "Yard-O-Led",
+  "cc": "GB",
+  "country": "United Kingdom",
+  "city": "London",
+  "founded": 1934,
+  "closed": null,
+  "summary": "London maker of fountain pens, ballpoints and pencils, mostly in hallmarked sterling silver. Re-established as Imperial Yard Ltd in 2015.",
+  "notable": [],
+  "sources": [
+   {
+    "t": "Wikipedia: Yard-O-Led",
+    "u": "https://en.wikipedia.org/w/index.php?search=Yard-O-Led"
+   }
+  ]
+ },
+ {
+  "id": "swan-mabie-todd",
+  "name": "Swan (Mabie Todd)",
+  "cc": "GB",
+  "country": "United Kingdom",
+  "city": "London",
+  "founded": 1880,
+  "closed": 1960,
+  "summary": "Swan pens were made by Mabie, Todd & Co. A book on the British side of the firm covers the years 1880 to 1960.",
+  "notable": [],
+  "sources": [
+   {
+    "t": "Science Museum Group: Mabie, Todd and Company",
+    "u": "https://collection.sciencemuseumgroup.org.uk/people/cp148137/mabie-todd-and-company-limited"
+   },
+   {
+    "t": "Wikipedia: Mabie Todd Swan pens",
+    "u": "https://en.wikipedia.org/w/index.php?search=Mabie+Todd+Swan+pens"
+   }
+  ],
+  "closedNote": "British Swan ended c. 1960",
+  "verify": true
+ },
+ {
+  "id": "pineider",
+  "name": "Pineider",
+  "cc": "IT",
+  "country": "Italy",
+  "city": "Florence",
+  "founded": 1774,
+  "closed": null,
+  "summary": "Florentine stationer known for fine paper and writing instruments, said to date from 1774.",
+  "notable": [],
+  "sources": [
+   {
+    "t": "Wikipedia: Pineider",
+    "u": "https://en.wikipedia.org/w/index.php?search=Pineider"
+   }
+  ],
+  "verify": true
+ }
+]

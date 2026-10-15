@@ -1,0 +1,530 @@
+[
+ {
+  "year": -2500,
+  "title": "Reed pens in ancient Egypt",
+  "text": "Scribes cut reeds to a point and wrote with carbon-based ink on papyrus. The reed pen became the basic writing tool of the ancient world.",
+  "tags": [
+   "writing"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Reed pen",
+    "u": "https://en.wikipedia.org/w/index.php?search=Reed+pen"
+   }
+  ],
+  "circa": true
+ },
+ {
+  "year": 600,
+  "title": "The quill takes over",
+  "text": "Feather quills, cut and shaped to hold more ink, became the main pen in Europe for about a thousand years.",
+  "tags": [
+   "writing"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Quill",
+    "u": "https://en.wikipedia.org/w/index.php?search=Quill"
+   }
+  ],
+  "circa": true
+ },
+ {
+  "year": 953,
+  "title": "A pen with an ink reservoir in Egypt",
+  "text": "Accounts say the caliph al-Mu'izz asked for a pen that would not stain his hands, and a pen with an ink reservoir was made for him.",
+  "tags": [
+   "invention"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Fountain pen",
+    "u": "https://en.wikipedia.org/w/index.php?search=Fountain+pen"
+   }
+  ],
+  "verify": true
+ },
+ {
+  "year": 1636,
+  "title": "Two quills, one reservoir",
+  "text": "The German Daniel Schwenter described a pen made from two quills, with one holding ink to feed the other.",
+  "tags": [
+   "invention"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Fountain pen",
+    "u": "https://en.wikipedia.org/w/index.php?search=Fountain+pen"
+   }
+  ],
+  "verify": true
+ },
+ {
+  "year": 1822,
+  "title": "Steel nibs go into mass production",
+  "text": "Birmingham makers turned out steel nibs by the million, making writing cheap, though they still needed a dip into the inkwell.",
+  "tags": [
+   "writing"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Pen nib",
+    "u": "https://en.wikipedia.org/w/index.php?search=Pen+nib"
+   }
+  ],
+  "circa": true,
+  "verify": true
+ },
+ {
+  "year": 1827,
+  "title": "Poenaru patents a fountain pen",
+  "text": "The Romanian Petrache Poenaru received a French patent for a pen with a quill barrel that held ink and a nib that wrote continuously.",
+  "tags": [
+   "invention"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Petrache Poenaru",
+    "u": "https://en.wikipedia.org/w/index.php?search=Petrache+Poenaru"
+   }
+  ]
+ },
+ {
+  "year": 1884,
+  "title": "Waterman patents a reliable feed",
+  "text": "Lewis Waterman's feed carried ink to the nib at a steady rate, solving the blobs and dry spells that plagued earlier fountain pens.",
+  "tags": [
+   "invention",
+   "brand"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Waterman Pens",
+    "u": "https://en.wikipedia.org/w/index.php?search=Waterman+Pens"
+   }
+  ]
+ },
+ {
+  "year": 1888,
+  "title": "George Parker starts his company",
+  "text": "Parker began in Janesville, Wisconsin, and became one of the great names in pens.",
+  "tags": [
+   "brand"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Parker Pen Company",
+    "u": "https://en.wikipedia.org/w/index.php?search=Parker+Pen+Company"
+   }
+  ]
+ },
+ {
+  "year": 1901,
+  "title": "The crescent filler",
+  "text": "Conklin introduced a self-filling system: press the crescent ring on the barrel to squeeze the sac inside.",
+  "tags": [
+   "filler"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Conklin Pen Company",
+    "u": "https://en.wikipedia.org/w/index.php?search=Conklin+Pen+Company"
+   }
+  ],
+  "verify": true
+ },
+ {
+  "year": 1905,
+  "title": "Onoto's plunger filler",
+  "text": "The British Onoto brought the plunger filler to market, drawing ink into the barrel with a syringe-like action.",
+  "tags": [
+   "filler"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Onoto",
+    "u": "https://en.wikipedia.org/w/index.php?search=Onoto"
+   }
+  ],
+  "circa": true,
+  "verify": true
+ },
+ {
+  "year": 1906,
+  "title": "Simplo Filler Pen Company",
+  "text": "The firm that would become Montblanc began in Hamburg. The Montblanc name followed in 1910.",
+  "tags": [
+   "brand"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Montblanc (company)",
+    "u": "https://en.wikipedia.org/w/index.php?search=Montblanc+%28company%29"
+   }
+  ]
+ },
+ {
+  "year": 1907,
+  "title": "Luxmy Stylo Pen Works in Varanasi",
+  "text": "Dr R. N. Saha set up one of the early Indian pen works. One history of Indian pens dates it to 1907.",
+  "tags": [
+   "brand"
+  ],
+  "sources": [
+   {
+    "t": "ORF: A Fountain Pen Story",
+    "u": "https://www.orfonline.org/research/a-fountain-pen-story-68679"
+   }
+  ],
+  "circa": true,
+  "verify": true
+ },
+ {
+  "year": 1908,
+  "title": "Sheaffer's lever filler",
+  "text": "Walter Sheaffer patented a side lever that squeezed the sac, making self-filling pens practical for everyone.",
+  "tags": [
+   "filler"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Sheaffer",
+    "u": "https://en.wikipedia.org/w/index.php?search=Sheaffer"
+   }
+  ]
+ },
+ {
+  "year": 1913,
+  "title": "The button filler and Sheaffer",
+  "text": "Sheaffer started its own company in 1913, and Parker adopted a button filler around the same time.",
+  "tags": [
+   "filler",
+   "brand"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Sheaffer",
+    "u": "https://en.wikipedia.org/w/index.php?search=Sheaffer"
+   }
+  ],
+  "circa": true,
+  "verify": true
+ },
+ {
+  "year": 1918,
+  "title": "Deccan Pen Stores opens in Hyderabad",
+  "text": "S. A. Siddiqui started as a shop and repair business and later made his own pens.",
+  "tags": [
+   "brand"
+  ],
+  "sources": [
+   {
+    "t": "ORF: A Fountain Pen Story",
+    "u": "https://www.orfonline.org/research/a-fountain-pen-story-68679"
+   }
+  ],
+  "verify": true
+ },
+ {
+  "year": 1921,
+  "title": "Parker Duofold",
+  "text": "A big red-barrelled pen that made pens a fashion item as well as a tool.",
+  "tags": [
+   "model"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Parker Duofold",
+    "u": "https://en.wikipedia.org/w/index.php?search=Parker+Duofold"
+   }
+  ]
+ },
+ {
+  "year": 1924,
+  "title": "Montblanc Meisterstück",
+  "text": "The Meisterstück line began and became a hallmark of luxury pens.",
+  "tags": [
+   "model"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Montblanc Meisterstück",
+    "u": "https://en.wikipedia.org/w/index.php?search=Montblanc+Meisterst%C3%BCck"
+   }
+  ]
+ },
+ {
+  "year": 1929,
+  "title": "First Pelikan piston filler",
+  "text": "Pelikan launched its first piston-filler pen, based on a patent by Theodor Kovács. The Sheaffer Balance also arrived this year.",
+  "tags": [
+   "filler",
+   "model"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Pelikan AG",
+    "u": "https://en.wikipedia.org/w/index.php?search=Pelikan+AG"
+   }
+  ]
+ },
+ {
+  "year": 1932,
+  "title": "Parker Vacumatic",
+  "text": "A striped, translucent barrel and a vacuum diaphragm filler let you see how much ink was left.",
+  "tags": [
+   "filler",
+   "model"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Parker Vacumatic",
+    "u": "https://en.wikipedia.org/w/index.php?search=Parker+Vacumatic"
+   }
+  ]
+ },
+ {
+  "year": 1932,
+  "title": "Ratnam Pen Works, Rajahmundry",
+  "text": "Two brothers began making ebonite pens. Gandhi rejected their first as not swadeshi enough, then thanked them for a second pen in 1935.",
+  "tags": [
+   "brand",
+   "writing"
+  ],
+  "sources": [
+   {
+    "t": "ORF: A Fountain Pen Story",
+    "u": "https://www.orfonline.org/research/a-fountain-pen-story-68679"
+   }
+  ]
+ },
+ {
+  "year": 1938,
+  "title": "The ballpoint is patented",
+  "text": "The Hungarian László Bíró patented a ballpoint pen that would eventually take over everyday writing.",
+  "tags": [
+   "writing"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Ballpoint pen",
+    "u": "https://en.wikipedia.org/w/index.php?search=Ballpoint+pen"
+   }
+  ]
+ },
+ {
+  "year": 1941,
+  "title": "Parker 51",
+  "text": "One of the most popular pens ever, with a hooded nib and quick-drying ink.",
+  "tags": [
+   "model"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Parker 51",
+    "u": "https://en.wikipedia.org/w/index.php?search=Parker+51"
+   }
+  ]
+ },
+ {
+  "year": 1943,
+  "title": "Chelpark takes over Parker's Indian arm",
+  "text": "The Chellaram family, with Parker, took over Parker's Indian subsidiary. It later made its own pens and ink in Bangalore.",
+  "tags": [
+   "brand"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Chelpark",
+    "u": "https://en.wikipedia.org/wiki/Chelpark"
+   }
+  ]
+ },
+ {
+  "year": 1947,
+  "title": "Aurora 88",
+  "text": "Marcello Nizzoli's streamlined Italian pen, a mid-century classic.",
+  "tags": [
+   "model"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Aurora (pen company)",
+    "u": "https://en.wikipedia.org/w/index.php?search=Aurora+%28pen+company%29"
+   }
+  ]
+ },
+ {
+  "year": 1948,
+  "title": "Aerometric filler",
+  "text": "Parker introduced the Aerometric: a squeezable sac in a metal sleeve, used on the 51.",
+  "tags": [
+   "filler"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Parker 51",
+    "u": "https://en.wikipedia.org/w/index.php?search=Parker+51"
+   }
+  ]
+ },
+ {
+  "year": 1952,
+  "title": "Snorkel and the Meisterstück 149",
+  "text": "Sheaffer's Snorkel let you fill without dipping the nib, and Montblanc launched the 149 and 146.",
+  "tags": [
+   "filler",
+   "model"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Montblanc Meisterstück",
+    "u": "https://en.wikipedia.org/w/index.php?search=Montblanc+Meisterst%C3%BCck"
+   }
+  ]
+ },
+ {
+  "year": 1952,
+  "title": "Pilot Pen Company (India) is formed",
+  "text": "The Indian arm of Pilot was incorporated in 1952, while makers such as Hilal started brands like Sultan the same year.",
+  "tags": [
+   "brand"
+  ],
+  "sources": [
+   {
+    "t": "ORF: A Fountain Pen Story",
+    "u": "https://www.orfonline.org/research/a-fountain-pen-story-68679"
+   }
+  ]
+ },
+ {
+  "year": 1953,
+  "title": "The first cartridge pen",
+  "text": "Waterman brought out the C/F, built around a plastic ink cartridge, making refilling clean for the first time.",
+  "tags": [
+   "filler"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Waterman Pens",
+    "u": "https://en.wikipedia.org/w/index.php?search=Waterman+Pens"
+   }
+  ]
+ },
+ {
+  "year": 1956,
+  "title": "Parker 61 and capillary filling",
+  "text": "The Parker 61 filled by capillary action: you simply dip the nib and ink is drawn in.",
+  "tags": [
+   "filler",
+   "model"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Parker 61",
+    "u": "https://en.wikipedia.org/w/index.php?search=Parker+61"
+   }
+  ],
+  "verify": true
+ },
+ {
+  "year": 1963,
+  "title": "Pilot Capless",
+  "text": "Pilot launched a pen with a retractable nib, no cap needed.",
+  "tags": [
+   "model"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Pilot Vanishing Point",
+    "u": "https://en.wikipedia.org/w/index.php?search=Pilot+Vanishing+Point"
+   }
+  ],
+  "verify": true
+ },
+ {
+  "year": 1966,
+  "title": "Lamy 2000",
+  "text": "Gerd A. Müller's Bauhaus-inspired pen, still in production with barely any change.",
+  "tags": [
+   "model"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Lamy 2000",
+    "u": "https://en.wikipedia.org/w/index.php?search=Lamy+2000"
+   }
+  ]
+ },
+ {
+  "year": 1967,
+  "title": "India reserves fountain pens for small makers",
+  "text": "Fountain pens became a small-scale industry product, which shaped who could make them for decades.",
+  "tags": [
+   "writing"
+  ],
+  "sources": [
+   {
+    "t": "ORF: A Fountain Pen Story",
+    "u": "https://www.orfonline.org/research/a-fountain-pen-story-68679"
+   }
+  ]
+ },
+ {
+  "year": 1980,
+  "title": "Lamy Safari",
+  "text": "A bright, affordable school pen that introduced millions of people to fountain pens.",
+  "tags": [
+   "model"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Lamy Safari",
+    "u": "https://en.wikipedia.org/w/index.php?search=Lamy+Safari"
+   }
+  ]
+ },
+ {
+  "year": 2000,
+  "title": "A new wave of makers",
+  "text": "With the internet bringing collectors and makers together, Japanese, Chinese and Taiwanese makers found new audiences and fountain pens enjoyed a revival.",
+  "tags": [
+   "brand"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: Fountain pen",
+    "u": "https://en.wikipedia.org/w/index.php?search=Fountain+pen"
+   }
+  ],
+  "circa": true
+ },
+ {
+  "year": 2001,
+  "title": "India lifts import limits on fountain pens",
+  "text": "Import restrictions were removed only in April 2001, after which foreign pens became easier to buy.",
+  "tags": [
+   "writing"
+  ],
+  "sources": [
+   {
+    "t": "ORF: A Fountain Pen Story",
+    "u": "https://www.orfonline.org/research/a-fountain-pen-story-68679"
+   }
+  ]
+ },
+ {
+  "year": 2015,
+  "title": "TWSBI ECO",
+  "text": "An affordable clear piston-filler that opened piston pens to beginners.",
+  "tags": [
+   "model"
+  ],
+  "sources": [
+   {
+    "t": "Wikipedia: TWSBI",
+    "u": "https://en.wikipedia.org/w/index.php?search=TWSBI"
+   }
+  ]
+ }
+]
